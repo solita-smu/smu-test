@@ -1,0 +1,9 @@
+{
+  "name": "vulnerable-dependency-example",
+  "version": "1.0.0",
+  "description": "Example project with a vulnerable dependency",
+  "main": "index.js",
+  "dependencies": {
+    "cookie": "0.6.0"
+  }
+}
